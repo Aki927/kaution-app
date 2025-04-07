@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Kaution</string>
+    <string name="home_nav">Home</string>
+    <string name="mykautions_nav">MyKautions</string>
+    <string name="settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_an_incident_report">Create an incident report</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="phone_number">Phone number</string>
+    <string name="login_button">Login</string>
+    <string name="enter_the_one_time_pass">Enter the One Time Pass</string>
+    <string name="one_time_pass">One Time Pass</string>
+    <string name="verify_button">Verify</string>
+    <string name="resend_otp_in_60_seconds">Resend OTP in 60 seconds</string>
+    <string name="username">Username</string>
+    <string name="enter_your_username">Enter Your Username</string>
+    <string name="start_button">Start</string>
+    <string name="send_alert">Send Alert</string>
+    <string name="camera">Camera</string>
+    <string name="photo_preview">photo_preview\n</string>
+    <string name="enter_incident_details">Enter incident details</string>
+    <string name="description_goes_here">description goes here</string>
+    <string name="kaution_image">kaution image</string>
+    <string name="sent">Sent</string>
+    <string name="received">Received</string>
+    <string name="now_viewing_kaution_feed">Now viewing Kaution feed</string>
+    <string name="report_a_bug">Report a Bug</string>
+    <string name="write_your_detailed_feedback_here">Write your detailed feedback here</string>
+    <string name="submit">Submit</string>
+    <string name="user_profile">User Profile</string>
+    <string name="report_bugs">Report Bugs</string>
+    <string name="now_viewing_settings">Now viewing settings</string>
+    <string name="enter_your_new_username_here">Enter your new username here</string>
+    <string name="change">Change</string>
+    <string name="change_username">Change Username</string>
+    <string name="report">Report</string>
+</resources>
