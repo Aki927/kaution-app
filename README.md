@@ -15,7 +15,7 @@ Other hazard awareness apps bombard you with irrelevant alerts causing unecessar
 Kaution ensures you only see verified, relevant alerts in your immediate area so you can respond quickly without the noise of false alarms or distant hazards.
 
 
-## 🎥 Demo
+## 🎥 Click Below for a Demo
 
 [![Watch the demo](https://img.youtube.com/vi/0YsQDXU2pEI/maxresdefault.jpg)](https://youtu.be/0YsQDXU2pEI)
 
