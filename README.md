@@ -20,7 +20,7 @@ Kaution ensures you only see verified, relevant alerts in your immediate area so
 [![Watch the demo](https://img.youtube.com/vi/0YsQDXU2pEI/maxresdefault.jpg)](https://youtu.be/0YsQDXU2pEI)
 
 
-Core Features
+## Core Features
 
 **Secure Authentication** via Firebase (Email + OTP)
 **Real-Time Location** updates via background service
@@ -30,7 +30,7 @@ Built-in **Bug Report** module for user feedback
 MVP backend support for future Spring Boot integration
 
 
-Tech Stack
+## Tech Stack
 
 | Layer         | Tech                          |
 |---------------|-------------------------------|
@@ -41,7 +41,7 @@ Tech Stack
 | Location      | Android LocationManager API   |
 
 
-FirebaseAuthHelper.java
+## Firebase Auth Helper
 
 Manages authentication via email/password and sends verification emails.
 
@@ -59,7 +59,7 @@ public void login(String email, String password, AuthCallback callback) {
 ```
 
 
-OneTimePassActivity.java
+## One Time Pass
 
 Handles OTP verification and countdown reset.
 
@@ -75,7 +75,7 @@ countDownTimer = new CountDownTimer(60000, 1000) {
 ```
 
 
-LocationService.java
+## Location Service
 
 Starts a foreground service to track and log real-time user location.
 
@@ -89,7 +89,7 @@ locationManager.requestLocationUpdates(
 ```
 
 
-MyFirebaseMessagingService.java
+## Firebase Messaging Service
 
 Handles incoming FCM messages and generates notifications.
 
@@ -102,7 +102,7 @@ public void onMessageReceived(RemoteMessage remoteMessage) {
 ```
 
 
-BugReportFragment.java
+## Bug Report
 
 Collects feedback and bug reports from users.
 
