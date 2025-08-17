@@ -116,8 +116,11 @@ submitButton.setOnClickListener(v -> {
 
 
 ```
-👨‍💻 Author
-Jerome Laranang
 
-LinkedIn
-GitHub
+
+## 👨‍💻 Author
+
+**Jerome Laranang**
+
+* [LinkedIn](https://linkedin.com/in/jerome-laranang)
+* [GitHub](https://github.com/Aki927)
