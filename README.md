@@ -1,6 +1,22 @@
-🚨 Kaution – Personal Safety Alert Android App
 
-Kaution is a mobile safety app that allows users to quickly send **location-based alerts** during emergencies, with **OTP verification**, **real-time notifications**, and a **secure login system** powered by Firebase.
+<img width="1048" height="325" alt="Screenshot 2025-08-17 at 8 01 53 AM" src="https://github.com/user-attachments/assets/606b2d36-e6fa-42a4-9b4a-2e4406458127" />
+
+Kaution is a mobile safety app that enables users to share and receive location-based hazard alerts, featuring OTP verification, real-time notifications, and a secure login system powered by Firebase.
+
+
+Why
+
+Other hazard awareness apps bombard you with irrelevant alerts causing unecessary panic. Imagine walking out your home and seeing this on your screen:
+
+![Screenshot 2024-12-26 at 18 18 14](https://github.com/user-attachments/assets/5861f77f-a381-449c-b286-ecacdc8404c0)
+
+Kaution ensures you only see verified, relevant alerts in your immediate area so you can respond quickly without the noise of false alarms or distant hazards.
+
+
+## 🎥 Demo
+
+[![Watch the demo](./Screenshot-2025-08-17-at-8.01.53-AM.png)](https://youtu.be/0YsQDXU2pEI)
+
 
 Core Features
 
@@ -10,6 +26,7 @@ Core Features
 One-Time Password (OTP) system with countdown reset
 Built-in **Bug Report** module for user feedback
 MVP backend support for future Spring Boot integration
+
 
 Tech Stack
 
@@ -55,6 +72,7 @@ countDownTimer = new CountDownTimer(60000, 1000) {
 }.start();
 ```
 
+
 LocationService.java
 
 Starts a foreground service to track and log real-time user location.
@@ -68,6 +86,7 @@ locationManager.requestLocationUpdates(
 );
 ```
 
+
 MyFirebaseMessagingService.java
 
 Handles incoming FCM messages and generates notifications.
@@ -80,6 +99,7 @@ public void onMessageReceived(RemoteMessage remoteMessage) {
 }
 ```
 
+
 BugReportFragment.java
 
 Collects feedback and bug reports from users.
@@ -91,4 +111,11 @@ submitButton.setOnClickListener(v -> {
         .add(new BugReport(userId, bugDetails, Timestamp.now()))
         .addOnSuccessListener(...)
 });
+
+
 ```
+👨‍💻 Author
+Jerome Laranang
+
+LinkedIn
+GitHub
