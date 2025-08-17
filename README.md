@@ -8,7 +8,9 @@ Why
 
 Other hazard awareness apps bombard you with irrelevant alerts causing unecessary panic. Imagine walking out your home and seeing this on your screen:
 
-<img src="https://github.com/user-attachments/assets/5861f77f-a381-449c-b286-ecacdc8404c0" alt="Kaution Demo Screenshot" width="300"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5861f77f-a381-449c-b286-ecacdc8404c0" alt="Kaution Demo Screenshot" width="300"/>
+</p>
 
 Kaution ensures you only see verified, relevant alerts in your immediate area so you can respond quickly without the noise of false alarms or distant hazards.
 
