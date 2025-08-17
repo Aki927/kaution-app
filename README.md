@@ -1,7 +1,7 @@
 
-<img width="1048" height="325" alt="Screenshot 2025-08-17 at 8 01 53 AM" src="https://github.com/user-attachments/assets/606b2d36-e6fa-42a4-9b4a-2e4406458127" />
+<img width="237" height="348" alt="Screenshot 2025-08-17 at 8 27 39 AM" src="https://github.com/user-attachments/assets/7c532903-94ad-4827-a3ed-d65b3e0daa25" />
 
-Kaution is a mobile safety app that enables users to share and receive location-based hazard alerts, featuring OTP verification, real-time notifications, and a secure login system powered by Firebase.
+Kaution is a safety app that enables users to share and receive location-based hazard alerts, featuring OTP verification, real-time notifications, and a secure login system powered by Firebase.
 
 
 Why
