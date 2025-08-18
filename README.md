@@ -17,7 +17,7 @@ Kaution ensures you only see verified, relevant alerts in your immediate area so
 
 ## 🎥 Click Below for a Demo
 
-[![Watch the demo](https://img.youtube.com/vi/0YsQDXU2pEI/maxresdefault.jpg)](https://www.youtube.com/watch?v=0YsQDXU2pEI)
+[![Watch the demo](https://github.com/user-attachments/assets/5861f77f-a381-449c-b286-ecacdc8404c0)](https://www.youtube.com/watch?v=0YsQDXU2pEI)
 
 
 ## Core Features
