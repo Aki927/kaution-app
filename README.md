@@ -4,7 +4,7 @@
 Kaution is a safety app that enables users to share and receive location-based hazard alerts, featuring OTP verification, real-time notifications, and a secure login system powered by Firebase.
 
 
-Why
+Why?
 
 Other hazard awareness apps bombard you with irrelevant alerts causing unecessary panic. Imagine walking out your home and seeing this on your screen:
 
